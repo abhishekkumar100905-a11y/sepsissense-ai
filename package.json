@@ -1,0 +1,27 @@
+{
+  "name": "sepsissense-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekkumar100905-a11y/sepsissense-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekkumar100905-a11y/sepsissense-ai/issues"
+  },
+  "homepage": "https://github.com/abhishekkumar100905-a11y/sepsissense-ai#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.1",
+    "express": "^5.2.1",
+    "multer": "^2.1.1"
+  }
+}
